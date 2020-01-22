@@ -1,0 +1,25 @@
+1. ModelFormSet_Factory : 
+        In this case data only insert .
+
+2. InlineFormSet_Factory :
+        In this case data insert , update as well as delete are successfully done.
+
+3. Django Cripsy Form.(using bootstrap4)
+
+
+4. Image Upload By Using Crispy Form 
+		Upto form submit . But where image will store this part is not cover..
+		It will cover in next class .
+
+Important:
+"""""""""""""
+
+       In "views.py" two index methods are present. 
+              * one is for modelformset_factory
+              * second is for inlineformset_factory
+
+
+
+
+
+
